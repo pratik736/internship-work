@@ -1,6 +1,6 @@
 <?php
 
-echo "<center> <h1 color> Table </h1> <table>";
+echo "<center> <h1> Table </h1> <table>";
 
 for($j=1;$j<=25;$j++){
 	echo "<tr>";
