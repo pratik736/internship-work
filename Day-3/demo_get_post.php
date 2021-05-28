@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<title></title>
+	<title>Demo of Get & Post Methods</title>
 </head>
 <body>
 	<h1>Form Demo : </h1> <br/>
