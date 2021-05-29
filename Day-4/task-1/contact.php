@@ -12,7 +12,7 @@
 <div class="line"></div>
 <div class="wrapper">
 <?php 
-include 'header.php';
+include 'header.html';
 ?>
 <main role="main">
 <?php 
@@ -32,7 +32,7 @@ include 'header.php';
 </main>
 </div>
 <?php 
-  include 'footer.php';
+  include 'footer.html';
 ?>
 <div class="line"></div>
 </body>
