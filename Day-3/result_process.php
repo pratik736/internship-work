@@ -1,17 +1,15 @@
 <?php
-$s1 = $_POST['s1'];
-$m1 = $_POST['m1'];
-$s2 = $_POST['s2'];
-$m2 = $_POST['m2'];
-$s3 = $_POST['s3'];
-$m3 = $_POST['m3'];
-$s4 = $_POST['s4'];
-$m4 = $_POST['m4'];
-$s5 = $_POST['s5'];
-$m5 = $_POST['m5'];
+$s[0] = $_POST['s1'];
+$m[0] = $_POST['m1'];
+$s[1] = $_POST['s2'];
+$m[1] = $_POST['m2'];
+$s[2] = $_POST['s3'];
+$m[2] = $_POST['m3'];
+$s[3] = $_POST['s4'];
+$m[3] = $_POST['m4'];
+$s[4] = $_POST['s5'];
+$m[4] = $_POST['m5'];
 
-$s = array($s1,$s2,$s3,$s4,$s5);
-$m = array($m1,$m2,$m3,$m4,$m5);
 $total = $percentage = 0;
 
 echo "<center> <h1> Result </h1> <table>";
