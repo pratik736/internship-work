@@ -24,7 +24,7 @@ if ($_POST) {
 		or die("Error". mysqli_error($connection));
 
 	if($q){
-		echo"<script>alert('Record Added');</script>";
+		echo "<script>alert('Record Added');</script>";
 	}
 }
 ?>
@@ -33,9 +33,7 @@ if ($_POST) {
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>
-		
-	</title>
+	<title> Insert Into DB Form	</title>
 	<style type="text/css">
 		td {
 			width: 300px;

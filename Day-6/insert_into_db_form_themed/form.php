@@ -119,7 +119,7 @@ if ($_POST) {
 		or die("Error". mysqli_error($connection));
 
 	if($q){
-		echo"<script>alert('Record Added');</script>";
+		echo "<script>alert('Record Added');</script>";
 	}
 }
 ?>
